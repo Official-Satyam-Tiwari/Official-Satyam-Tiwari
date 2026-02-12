@@ -56,4 +56,4 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Tiwari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyam-tiwari-204a3a174)
-[![Email](https://img.shields.io/badge/Email-satyam2002cdlu@gmail.com-c14438?style=flat&logo=gmail)](mailto:satyam2002cdlu@gmail.com)
+[![Email](https://img.shields.io/badge/Email-satyam.tiwari@doctoral.uj.edu.pl-c14438?style=flat&logo=gmail)](mailto:satyam.tiwari@doctoral.uj.edu.pl)
