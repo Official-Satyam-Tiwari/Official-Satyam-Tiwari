@@ -47,8 +47,8 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Official-Satyam-Tiwari&show_icons=true&theme=minimal" height="150" alt="Satyam's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-Satyam-Tiwari&layout=compact&theme=minimal" height="150" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Official-Satyam-Tiwari&theme=radical" alt="Satyam's Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Official-Satyam-Tiwari&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -56,4 +56,4 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Satyam_Tiwari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/satyam-tiwari-204a3a174)
-[![Email](https://img.shields.io/badge/Email-satyam.tiwari@doctoral.uj.edu.pl-c14438?style=flat&logo=gmail)](mailto:satyam.tiwari@doctoral.uj.edu.pl)
+[![Email](https://img.shields.io/badge/Email-satyam2002cdlu@gmail.com-c14438?style=flat&logo=gmail)](mailto:satyam2002cdlu@gmail.com)
