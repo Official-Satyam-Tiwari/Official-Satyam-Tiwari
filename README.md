@@ -20,22 +20,6 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 
 ---
 
-## 🔬 Research Workflow: CT-Less J-PET Framework
-
-```mermaid
-graph TD;
-    A[J-PET Scanner] -->|Raw Signals| B(Signal Processing);
-    B -->|Time & Energy Data| C{Feature Extraction};
-    C -->|ROOT / Python| D[Deep Learning Models];
-    D -->|Denoising & Localization| E(Reconstructed Image);
-    E -->|Analysis| F[Clinical/Physics Insights];
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style D fill:#bbf,stroke:#333,stroke-width:2px
-    style F fill:#bfb,stroke:#333,stroke-width:2px
-```
-
----
-
 ## Selected Projects
 
 ### Deep Learning for J-PET Imaging
