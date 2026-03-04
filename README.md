@@ -8,7 +8,10 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 
 ## Technical Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![GATE](https://img.shields.io/badge/GATE-Geant4-green?style=flat) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![GATE](https://img.shields.io/badge/GATE-Geant4-green?style=flat) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
