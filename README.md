@@ -17,9 +17,9 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 
 ## Selected Projects
 
-### Deep Learning for J-PET Imaging
+### CT-less PET Imaging using JPET Scanner
 *PhD Research @ Jagiellonian University*
-- Developing a **CT-Less computational framework** for the J-PET scanner.
+- Developing a **CT-Less computational framework** for the J-PET scanner using detector scattered photons.
 - Implementing deep learning models for **denoising** and **lesion localization** without anatomical priors.
 
 ### Parametric Study of Non-Linear Oscillators
