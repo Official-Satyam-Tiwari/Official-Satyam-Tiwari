@@ -20,15 +20,15 @@ I am a Physicist and Researcher passionate about **Medical Imaging**, **Machine 
 - Developing a **CT-Less computational framework** for the J-PET scanner using detector scattered photons.
 - Implementing deep learning models for **denoising** and **lesion localization** without anatomical priors.
 
-### Parametric Study of Non-Linear Oscillators
-*Computational Physics Project @ IIT Bombay*
-- **Simulation & Analysis**: Solved non-linear differential equations using Euler, RK2, and RK4 numerical methods.
-- **Parametric Study**: Simulated various oscillator models under diverse conditions to analyze stability and chaotic behavior.
-
 ### 3D Model for Scattered Data in PET
 *Master's Project @ IIT Bombay*
 - Validated a tumor localization approach using **energy-based scattered data**.
 - Designed a custom **3D model** to estimate annihilation points, enhancing geometric precision in reconstruction.
+
+### Parametric Study of Non-Linear Oscillators
+*Computational Physics Project @ IIT Bombay*
+- **Simulation & Analysis**: Solved non-linear differential equations using Euler, RK2, and RK4 numerical methods.
+- **Parametric Study**: Simulated various oscillator models under diverse conditions to analyze stability and chaotic behavior.
 
 ### Educational Animations with Manim
 *Content Developer @ Vizuara*
