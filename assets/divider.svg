@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 16" width="900" height="16" role="img" aria-label="divider"><style>
+  .det{fill:#E4572E}.bore{stroke:#E4572E}.lor{stroke:#E4572E}.sc{stroke:#7C5CFF}.ann{fill:#7C5CFF}.txt{fill:#57606a}
+  @media (prefers-color-scheme: dark){
+    .det{fill:#6EE7C8}.bore{stroke:#6EE7C8}.lor{stroke:#6EE7C8}.sc{stroke:#FF9EC0}.ann{fill:#FF9EC0}.txt{fill:#8b949e}
+  }
+</style>
+<line class="lor" x1="0" y1="8" x2="900" y2="8" stroke-width="1" opacity=".25"/>
+<circle class="ann" r="4" cy="8"><animate attributeName="cx" values="-10;910" dur="4s" repeatCount="indefinite"/></circle>
+<circle class="det" r="3" cy="8"><animate attributeName="cx" values="910;-10" dur="4s" repeatCount="indefinite"/></circle>
+</svg>

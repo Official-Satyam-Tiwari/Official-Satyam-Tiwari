@@ -21,13 +21,17 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Research
 
 > **The problem:** PET scanners need an *attenuation map* to produce quantitative images, and that map usually comes from a CT scan, which means extra radiation dose and extra hardware.
 >
 > **My approach (DSAC):** Detector-scattered coincidences, where a photon scatters inside the detector itself, carry information about the patient's body. I reconstruct the attenuation map from these detector-scattered coincidences, so no CT is needed.
+
+<p align="center">
+  <img src="assets/pet-ring.svg" width="100%" alt="Animated PET detector ring showing true and detector-scattered coincidences" />
+</p>
 
 | Research interest | In one line |
 |---|---|
@@ -37,7 +41,7 @@
 
 <sub>Supervised by Prof. Paweł Moskal & Dr. Sushil K. Sharma · J-PET group, Jagiellonian University</sub>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Toolbox
 
@@ -55,7 +59,7 @@
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## Projects
 
@@ -71,7 +75,7 @@
 pip install biblioaudit   # try it on your next paper's references
 ```
 
----
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## GitHub at a glance
 
@@ -86,3 +90,9 @@ pip install biblioaudit   # try it on your next paper's references
   </picture>
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Official-Satyam-Tiwari/Official-Satyam-Tiwari/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/Official-Satyam-Tiwari/Official-Satyam-Tiwari/output/snake.svg" alt="Contribution graph being eaten by a snake" width="100%" />
+  </picture>
+</p>
