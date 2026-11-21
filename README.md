@@ -17,8 +17,6 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Satyam-Tiwari-35/research)
 [![CV](https://img.shields.io/badge/CV-PDF-555?style=flat-square&logo=readthedocs&logoColor=white)](https://official-satyam-tiwari.github.io/cv.pdf)
 
-`16 publications` · `9 conference contributions` · `1 patent pending`
-
 </div>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
