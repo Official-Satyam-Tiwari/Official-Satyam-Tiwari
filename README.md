@@ -19,8 +19,6 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
 ## Research
 
 > **The problem:** PET scanners need an *attenuation map* to produce quantitative images, and that map usually comes from a CT scan, which means extra radiation dose and extra hardware.
@@ -39,8 +37,6 @@
 
 <sub>Supervised by Prof. Paweł Moskal & Dr. Sushil K. Sharma · J-PET group, Jagiellonian University</sub>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
 ## Toolbox
 
 <div align="center">
@@ -57,8 +53,6 @@
 
 </div>
 
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
-
 ## Projects
 
 | Project | What it does |
@@ -72,8 +66,6 @@
 ```bash
 pip install biblioaudit   # try it on your next paper's references
 ```
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 ## GitHub at a glance
 
